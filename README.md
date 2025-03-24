@@ -83,8 +83,6 @@ In order to use the Unsplash API to fetch images for your application, you will 
 - search functionality (hint : search photos)
 
 After signing up for an Unsplash account, you will need to locate your API key and the correct URL to use when searching for images using the Unsplash API. This information can be found in the API documentation provided by Unsplash.
-api key hTw3UU99m1iHKmLxFURwglZjcAdZcc-9Nwx6I5xlick
-secret key Ng4XppHMsUKP8rAI_5ht8YOJkp-Qo2yVy9wHq78nnU0
 
 #### Test the URL Using Thunder Client VS Code Extension
 
